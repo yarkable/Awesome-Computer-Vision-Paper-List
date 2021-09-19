@@ -8,12 +8,14 @@ The following conferences have been collected (Click the titles to see details)
 
 <details>
     <summary> AAAI (Association for the Advancement of Artificial Intelligence) </summary>
-    <p><a href='AAAI/AAAI-18-Accepted-Paper-List.Web_.pdf'>AAAI 2016</a></p> 
-    <p><a href='AAAI/aaai17accepted-papers.pdf'>AAAI 2017</a></p> 
-    <p><a href='AAAI/AAAI-18-Accepted-Paper-List.Web_.pdf'>AAAI 2018</a></p> 
-    <p><a href='AAAI/AAAI-19_Accepted_Papers.pdf'>AAAI 2019</a></p> 
-    <p><a href='AAAI/AAAI-20-Accepted-Paper-List.pdf'>AAAI 2020</a></p> 
-    <p><a href='AAAI/AAAI-21_Accepted-Paper-List.Main_.Technical.Track__2.pdf'>AAAI 2021</a></p> 
+    <pre>
+    <a href='AAAI/AAAI-18-Accepted-Paper-List.Web_.pdf'>AAAI 2016</a>
+    <a href='AAAI/aaai17accepted-papers.pdf'>AAAI 2017</a> 
+    <a href='AAAI/AAAI-18-Accepted-Paper-List.Web_.pdf'>AAAI 2018</a> 
+    <a href='AAAI/AAAI-19_Accepted_Papers.pdf'>AAAI 2019</a> 
+    <a href='AAAI/AAAI-20-Accepted-Paper-List.pdf'>AAAI 2020</a> 
+    <a href='AAAI/AAAI-21_Accepted-Paper-List.Main_.Technical.Track__2.pdf'>AAAI 2021</a>
+    </pre> 
 </details>
 
 <details>
