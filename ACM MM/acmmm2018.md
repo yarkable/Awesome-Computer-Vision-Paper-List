@@ -282,7 +282,7 @@
 - Wendong Zhang,Feng Gao,Bingbing Ni,Lingyu Duan,Yichao Yan,Jingwei Xu,Xiaokang Yang. **"Depth Structure Preserving Scene Image Generation"** | [[Home Page]](https://dl.acm.org/doi/10.1145/3240508.3240584) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240584) 
 
 
-- Jiawei Liu,Zheng-Jun Zha,Hongtao Xie,Zhiwei Xiong,Yongdong Zhang. **"CANet: Contextual-Attentional Attribute-Appearance Network for Person Re-Identification"** | [[Home Page]](https://dl.acm.org/doi/10.1145/3240508.3240585) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240585) 
+- Jiawei Liu,Zheng-Jun Zha,Hongtao Xie,Zhiwei Xiong,Yongdong Zhang. **"CA~3~Net: Contextual-Attentional Attribute-Appearance Network for Person Re-Identification"** | [[Home Page]](https://dl.acm.org/doi/10.1145/3240508.3240585) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240585) 
 
 
 - Gusi Te,Wei Hu,Amin Zheng,Zongming Guo. **"RGCNN: Regularized Graph CNN for Point Cloud Segmentation"** | [[Home Page]](https://dl.acm.org/doi/10.1145/3240508.3240621) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3240508.3240621) 
@@ -937,5 +937,4 @@
 
 
 - Xavier Alameda-Pineda,Miriam Redi,Nicu Sebe,Shih-Fu Chang,Jiebo Luo. **"EE-USAD: ACM MM 2018Workshop on UnderstandingSubjective Attributes of Data focus on Evoked Emotions"** | [[Home Page]](https://dl.acm.org/doi/10.1145/3240508.3243721) | [[PDF]](https://dl.acm.org/doi/pdf/10.1145/3240508.3243721) 
-
 
