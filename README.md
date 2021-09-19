@@ -48,7 +48,40 @@ The following conferences have been collected (Click the titles to see details)
 
 <details>
     <summary> ECCV (European Conference on Computer Vision) </summary>
-    <p><a href='ECCV/eccv2018.md'>ECCV 2018</a></p>
-    <p><a href='ECCV/eccv2020.md'>ECCV 2020</a></p>
+    <pre>
+    <a href='ECCV/eccv2018.md'>ECCV 2018</a>
+    <a href='ECCV/eccv2020.md'>ECCV 2020</a></pre>
 </details>
 
+<details>
+    <summary> ICCV (International Conference on Computer Vision) </summary>
+    <pre>
+    <a href='ICCV/iccv2013.md'>ICCV 2013</a>
+    <a href='ICCV/iccv2015.md'>ICCV 2015</a>
+    <a href='ICCV/iccv2017.md'>ICCV 2017</a>
+    <a href='ICCV/iccv2019.md'>ICCV 2019</a></pre>
+</details>
+
+<details>
+    <summary> ICML (International Conference on Machine Learning) </summary>
+    <pre>
+    <a href='ICML/icml2013.md'>ICML 2013</a>
+    <a href='ICML/icml2014.md'>ICML 2014</a>
+    <a href='ICML/icml2015.md'>ICML 2015</a>
+    <a href='ICML/icml2016.md'>ICML 2016</a>
+    <a href='ICML/icml2017.md'>ICML 2017</a>
+    <a href='ICML/icml2018.md'>ICML 2018</a>
+    <a href='ICML/icml2019.md'>ICML 2019</a>
+    <a href='ICML/icml2020.md'>ICML 2020</a>
+    <a href='ICML/icml2021.md'>ICML 2021</a></pre>    
+</details>
+    <summary> IJCAI (International Joint Conference on Artificial Intelligence) </summary>
+    <pre>
+    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
+    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
+    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
+    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
+    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
+    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
+    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
+    </pre>
