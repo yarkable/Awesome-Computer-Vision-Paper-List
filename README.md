@@ -75,6 +75,8 @@ The following conferences have been collected (Click the titles to see details)
     <a href='ICML/icml2020.md'>ICML 2020</a>
     <a href='ICML/icml2021.md'>ICML 2021</a></pre>    
 </details>
+
+<details>
     <summary> IJCAI (International Joint Conference on Artificial Intelligence) </summary>
     <pre>
     <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
@@ -83,5 +85,31 @@ The following conferences have been collected (Click the titles to see details)
     <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
     <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
     <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
-    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
-    </pre>
+    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a></pre>
+</details>
+
+<details>
+    <summary> NeurIPS (Conference on Neural Information Processing Systems) </summary>
+    <pre>
+    <a href='NeurIPS/.md'>NeurIPS 1987-2010</a>
+    <a href='NeurIPS/nips2011.md'>NeurIPS 2011</a>
+    <a href='NeurIPS/nips2012.md'>NeurIPS 2012</a>
+    <a href='NeurIPS/nips2013.md'>NeurIPS 2013</a>
+    <a href='NeurIPS/nips2014.md'>NeurIPS 2014</a>
+    <a href='NeurIPS/nips2015.md'>NeurIPS 2015</a>
+    <a href='NeurIPS/nips2016.md'>NeurIPS 2016</a>
+    <a href='NeurIPS/nips2017.md'>NeurIPS 2017</a>
+    <a href='NeurIPS/nips2018.md'>NeurIPS 2018</a>
+    <a href='NeurIPS/nips2019.md'>NeurIPS 2019</a>
+    <a href='NeurIPS/nips2020.md'>NeurIPS 2020</a></pre>
+</details>
+
+
+## TODO
+
+
+
+- [ ] WACV
+- [ ] BMVC
+- [ ] ICLR
+- [ ] ACM MM 2017 (website unavailable)
