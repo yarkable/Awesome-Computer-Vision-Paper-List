@@ -2,7 +2,7 @@
 
 
 
-This repository aims to collect recently accepted papers on AI conferences. One can search here if there exists some papers that have same idea as him conveniently, or search all the papers with different research interests. Papers are grabbed from official website to ensure all the information are correct. Just enjoy it :D
+This repository aims to collect recently accepted papers on AI conferences. One can search here if there already exists some papers that have same idea as him conveniently, or search all the papers with different research interests. Papers are grabbed from official website to ensure all the information are correct. Just enjoy it :D
 
 
 
