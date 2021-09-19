@@ -91,7 +91,7 @@ The following conferences have been collected (Click the titles to see details)
 <details>
     <summary> NeurIPS (Conference on Neural Information Processing Systems) </summary>
     <pre>
-    <a href='NeurIPS/.md'>NeurIPS 1987-2010</a>
+    <a href='NeurIPS/'>NeurIPS 1987-2010</a>
     <a href='NeurIPS/nips2011.md'>NeurIPS 2011</a>
     <a href='NeurIPS/nips2012.md'>NeurIPS 2012</a>
     <a href='NeurIPS/nips2013.md'>NeurIPS 2013</a>
