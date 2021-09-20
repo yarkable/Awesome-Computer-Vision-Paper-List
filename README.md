@@ -2,7 +2,7 @@
 
 
 
-This repository aims to collect recently accepted papers on AI conferences. One can search here if there already exists some papers that have same idea as him conveniently, or search all the papers with different research interests. Papers are grabbed from official website to ensure all the information are correct. Just enjoy it :D
+This repository aims to collect recently accepted papers on AI conferences. One can search here if there already exists some papers that have same idea as his/hers conveniently, or search all the papers with different research areas. Papers are grabbed from official website to ensure all the information are correct. Just enjoy it :D
 
 
 
@@ -86,12 +86,12 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <summary> IJCAI (International Joint Conference on Artificial Intelligence) </summary>
     <pre>
     <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
-    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
-    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
-    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
-    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
-    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a>
-    <a href='IJCAI/ijcai2015.md'>IJCAI 2015</a></pre>
+    <a href='IJCAI/ijcai2016.md'>IJCAI 2016</a>
+    <a href='IJCAI/ijcai2017.md'>IJCAI 2017</a>
+    <a href='IJCAI/ijcai2018.md'>IJCAI 2018</a>
+    <a href='IJCAI/ijcai2019.md'>IJCAI 2019</a>
+    <a href='IJCAI/ijcai2020.md'>IJCAI 2020</a>
+    <a href='IJCAI/ijcai2021.md'>IJCAI 2021</a></pre>
 </details>
 
 <details>
@@ -109,6 +109,12 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <a href='NeurIPS/nips2019.md'>NeurIPS 2019</a>
     <a href='NeurIPS/nips2020.md'>NeurIPS 2020</a></pre>
 </details>
+
+
+
+
+---
+
 
 
 ## TODO
