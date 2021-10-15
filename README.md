@@ -65,7 +65,8 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <a href='ICCV/iccv2013.md'>ICCV 2013</a>
     <a href='ICCV/iccv2015.md'>ICCV 2015</a>
     <a href='ICCV/iccv2017.md'>ICCV 2017</a>
-    <a href='ICCV/iccv2019.md'>ICCV 2019</a></pre>
+    <a href='ICCV/iccv2019.md'>ICCV 2019</a>
+    <a href='ICCV/iccv2021.md'>ICCV 2021</a></pre>
 </details>
 
 <details>
