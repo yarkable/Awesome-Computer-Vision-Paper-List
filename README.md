@@ -116,7 +116,7 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 
 
 
-**Update：** In order to verify whether your idea was published in the previous conferences, an easy way is to `search in this repository`, and the corresponding results will be shown on the right.
+**Update：** In order to verify whether your idea was published in the previous conferences, an easy way is to search your keyword `In this repository`, and the corresponding results will be shown on the right.
 
 
 
