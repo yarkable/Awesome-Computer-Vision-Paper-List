@@ -108,7 +108,8 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <a href='NeurIPS/nips2017.md'>NeurIPS 2017</a>
     <a href='NeurIPS/nips2018.md'>NeurIPS 2018</a>
     <a href='NeurIPS/nips2019.md'>NeurIPS 2019</a>
-    <a href='NeurIPS/nips2020.md'>NeurIPS 2020</a></pre>
+    <a href='NeurIPS/nips2020.md'>NeurIPS 2020</a>
+    <a href='NeurIPS/nips2021.md'>NeurIPS 2021</a></pre>
 </details>
 
 
@@ -116,7 +117,7 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 
 
 
-**Update：** In order to verify whether your idea was published in the previous conferences, an easy way is to search your keyword `In this repository`, and the corresponding results will be shown on the right.
+**Tips：** In order to verify whether your idea was published in the previous conferences, an easy way is to search your keyword `In this repository`, and the corresponding results will be shown on the right.
 
 
 
@@ -127,10 +128,14 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 
 
 
-
 ---
 
+## Update
 
+2021.12.20, NIPS2021
+
+
+---
 
 ## TODO
 
