@@ -148,9 +148,9 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 
 ## Update
 
-2021.12.20, NIPS2021
-2021.12.20, BMVC series
-2021.12.20, WACV series
+- 2021.12.20, NIPS2021
+- 2021.12.20, BMVC series
+- 2021.12.20, WACV series
 ---
 
 ## TODO
