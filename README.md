@@ -128,8 +128,9 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <a href='WACV/wacv2020.md'>WACV 2020</a>
     <a href='WACV/wacv2021.md'>WACV 2021</a></pre>
 </details>
----
 
+
+---
 
 
 **Tips：** In order to verify whether your idea was published in the previous conferences, an easy way is to search your keyword `In this repository`, and the corresponding results will be shown on the right.
