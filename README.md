@@ -39,6 +39,16 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 </details>
 
 <details>
+    <summary> BMVC (British Machine Vision Conference) </summary>
+    <pre>
+    <a href='BMVC/bmvc2016.md'>BMVC 2016</a>
+    <a href='BMVC/bmvc2017.md'>BMVC 2017</a> 
+    <a href='BMVC/bmvc2018.md'>BMVC 2018</a> 
+    <a href='BMVC/bmvc2019.md'>BMVC 2019</a>
+    <a href='BMVC/bmvc2020.md'>BMVC 2020</a></pre>      
+</details>
+
+<details>
     <summary> CVPR (Conference on Computer Vision and Pattern Recognition) </summary>
     <pre>
     <a href='CVPR/cvpr2013.md'>CVPR 2013</a>
@@ -133,7 +143,7 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 ## Update
 
 2021.12.20, NIPS2021
-
+2021.12.20, BMVC series
 
 ---
 
