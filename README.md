@@ -122,7 +122,12 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <a href='NeurIPS/nips2021.md'>NeurIPS 2021</a></pre>
 </details>
 
-
+<details>
+    <summary> WACV (Workshop on Applications of Computer Vision) </summary>
+    <pre>
+    <a href='WACV/wacv2020.md'>WACV 2020</a>
+    <a href='WACV/wacv2021.md'>WACV 2021</a></pre>
+</details>
 ---
 
 
@@ -144,14 +149,14 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 
 2021.12.20, NIPS2021
 2021.12.20, BMVC series
-
+2021.12.20, WACV series
 ---
 
 ## TODO
 
 
 
-- [ ] WACV
-- [ ] BMVC
+- [x] WACV
+- [x] BMVC
 - [ ] ICLR
 - [ ] ACM MM 2017 (website unavailable)
