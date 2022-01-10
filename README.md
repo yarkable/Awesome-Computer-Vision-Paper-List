@@ -33,9 +33,11 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <summary> ACM MM (ACM Multimedia) </summary>
     <pre>
     <a href='ACM%20MM/acmmm2016.md'>ACM MM 2016</a>
+    <a href='ACM%20MM/acmmm2017.md'>ACM MM 2017</a>
     <a href='ACM%20MM/acmmm2018.md'>ACM MM 2018</a> 
     <a href='ACM%20MM/acmmm2019.md'>ACM MM 2019</a> 
-    <a href='ACM%20MM/acmmm2020.md'>ACM MM 2020</a></pre>      
+    <a href='ACM%20MM/acmmm2020.md'>ACM MM 2020</a>
+    <a href='ACM%20MM/acmmm2021.md'>ACM MM 2021</a></pre>      
 </details>
 
 <details>
@@ -151,6 +153,7 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 - 2021.12.20, NIPS2021
 - 2021.12.20, BMVC series
 - 2021.12.20, WACV series
+- 2022.01.10, ACM MM 2017, 2021
 ---
 
 ## TODO
@@ -160,4 +163,4 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 - [x] WACV
 - [x] BMVC
 - [ ] ICLR
-- [ ] ACM MM 2017 (website unavailable)
+- [x] ACM MM 2017 (website unavailable)
