@@ -61,7 +61,8 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <a href='CVPR/cvpr2018.md'>CVPR 2018</a> 
     <a href='CVPR/cvpr2019.md'>CVPR 2019</a> 
     <a href='CVPR/cvpr2020.md'>CVPR 2020</a> 
-    <a href='CVPR/cvpr2021.md'>CVPR 2021</a></pre>
+    <a href='CVPR/cvpr2021.md'>CVPR 2021</a>
+    <a href='CVPR/cvpr2022.md'>CVPR 2022</a></pre>
 </details>
 
 <details>
@@ -154,6 +155,7 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 - 2021.12.20, BMVC series
 - 2021.12.20, WACV series
 - 2022.01.10, ACM MM 2017, 2021
+- 2022.06.11, CVPR 2022
 ---
 
 ## TODO
