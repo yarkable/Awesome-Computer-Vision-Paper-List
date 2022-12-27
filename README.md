@@ -47,7 +47,8 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <a href='BMVC/bmvc2017.md'>BMVC 2017</a> 
     <a href='BMVC/bmvc2018.md'>BMVC 2018</a> 
     <a href='BMVC/bmvc2019.md'>BMVC 2019</a>
-    <a href='BMVC/bmvc2020.md'>BMVC 2020</a></pre>      
+    <a href='BMVC/bmvc2020.md'>BMVC 2020</a>
+    <a href='BMVC/bmvc2021.md'>BMVC 2021</a></pre>      
 </details>
 
 <details>
@@ -69,7 +70,8 @@ This repository aims to collect recently accepted papers on AI conferences. One 
     <summary> ECCV (European Conference on Computer Vision) </summary>
     <pre>
     <a href='ECCV/eccv2018.md'>ECCV 2018</a>
-    <a href='ECCV/eccv2020.md'>ECCV 2020</a></pre>
+    <a href='ECCV/eccv2020.md'>ECCV 2020</a>
+    <a href='ECCV/eccv2022.md'>ECCV 2022</a></pre>
 </details>
 
 <details>
@@ -150,12 +152,13 @@ This repository aims to collect recently accepted papers on AI conferences. One 
 ---
 
 ## Update
-
-- 2021.12.20, NIPS2021
+ 
+- 2021.12.20, NIPS 2021
 - 2021.12.20, BMVC series
 - 2021.12.20, WACV series
 - 2022.01.10, ACM MM 2017, 2021
 - 2022.06.11, CVPR 2022
+- 2022.12.27, ECCV 2022, revise BMVC series
 ---
 
 ## TODO
