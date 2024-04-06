@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 prefix = 'https://papers.nips.cc' #'https://www.ecva.net/'
 
 
-for year in range(2021, 2022):
+for year in range(2022, 2024):
 
     year_title = f'NeurIPS{year}'
     file_name = f'nips{year}.md'

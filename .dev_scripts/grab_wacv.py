@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 prefix = 'https://openaccess.thecvf.com/' #'https://www.ecva.net/'
 
 
-for year in range(2020, 2022):
+for year in range(2022, 2025):
     url = f'https://openaccess.thecvf.com/WACV{year}'
     year_title = f'WACV{year}'
     file_name = f'wacv{year}.md'

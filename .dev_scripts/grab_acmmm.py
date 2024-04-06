@@ -9,14 +9,16 @@ info_dict = {
 	2018: 3240508,
 	2019: 3343031,
 	2020: 3394171,
-	2021: 3474085
+	2021: 3474085,
+	2022: 3503161,
+	2023: 3581783,
 }
 proxy = '127.0.0.1:7890'
 proxies = {
 	'http': f'http://{proxy}',
 	'https': f'https://{proxy}',
 }
-for year in [2017]:#[2018, 2019, 2020]:
+for year in [2023, 2024]:#[2018, 2019, 2020]:
 
 	year_title = f'ACMMM{year}'
 	file_name = f'acmmm{year}.md'

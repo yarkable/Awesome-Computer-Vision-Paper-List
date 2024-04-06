@@ -11,10 +11,12 @@ info_dict = {
     2018: 80,
     2019: 97,
     2020: 119,
-    2021: 139
+    2021: 139,
+    2022: 162,
+    2023: 202
 }
 
-for year in range(2013, 2022):
+for year in range(2022, 2024):
 
     year_title = f'ICML{year}'
     file_name = f'icml{year}.md'

@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 
 days = ['all']# ['2020-06-16', '2020-06-17', '2020-06-18']
 info_dict = dict()
-year_title = 'CVPR2022'
-file_name = '../CVPR/cvpr2022.md'
+year_title = 'ACCV2022'
+file_name = '../ACCV/accv2022.md'
 prefix = 'https://openaccess.thecvf.com/' #'https://www.ecva.net/'
 ###############################################################
 home_page = []
@@ -14,7 +14,7 @@ pdf_link = []
 ###############################################################
 
 for day in days:
-    url = f'https://openaccess.thecvf.com/CVPR2022?day={day}'
+    url = f'https://openaccess.thecvf.com/ACCV2022?day={day}'
     # url = 'https://openaccess.thecvf.com/ACCV2020'
     # url = 'https://www.ecva.net/papers.php'
     data = requests.get(url)

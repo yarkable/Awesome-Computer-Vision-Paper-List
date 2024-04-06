@@ -56,7 +56,7 @@ prefix = 'https://www.ijcai.org'
 
 # ijcai 2018年以後改了樣式
 
-for year in range(2017,2022):
+for year in range(2022,2024):
 
     year_title = f'IJCAI{year}'
     file_name = f'ijcai{year}.md'
