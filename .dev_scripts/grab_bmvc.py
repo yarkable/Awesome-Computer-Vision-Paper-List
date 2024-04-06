@@ -31,7 +31,11 @@ for year in range(2022, 2024):
         print(paper_title)  # debug
         authors = ','.join([x.string.strip() for x in item.find_all('span', itemprop="name")[:-1]])
         try:
-            link = pdf.find_all('div', class_='head')[0].find('a').get('href')
+            # bmvc 2022 以后的是这个链接
+            homepage_link = pdf.find_all('div', class_='head')[0].find('a').get('href')
+            paper_id = homepage_link.split('/')[-2]
+            idx = homepage_link.index(f'/{paper_id}/')
+            link = f"{homepage_link[:idx]}/{paper_id.zfill(4)}.pdf"
         except:
             link = 'unavailable!'
 

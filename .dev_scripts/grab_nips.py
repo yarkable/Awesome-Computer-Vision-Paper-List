@@ -28,7 +28,8 @@ for year in range(2022, 2024):
         hash = homepage_link.split('/')[-1].split('-')[0]
         paper_title = item.find('a').string.strip()
         authors = item.find('i').string.strip() if item.find('i').string else 'No Author'
-        link = f'{prefix}/paper/{year}/file/{hash}-Paper.pdf'
+        # 2022 年以后就是这个链接
+        link = f'{prefix}/paper_files/paper/{year}/file/{hash}-Paper-Conference.pdf'
 
 
         home_page.append(homepage_link)
